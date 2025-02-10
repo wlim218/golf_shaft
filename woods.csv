@@ -1,0 +1,268 @@
+club,company,shaft,model,flex,weight,torque,kick_point,launch
+Woods,Fujikura,Ventus,Blue 5,R,58.5,3.7,mid,mid
+Woods,Fujikura,Ventus,Blue 5,S,59,3.3,mid,mid
+Woods,Fujikura,Ventus,Blue 6,S,65,3.1,mid,mid
+Woods,Fujikura,Ventus,Blue 6,X,65,3.1,mid,mid
+Woods,Fujikura,Ventus,Blue 7,S,76,3,mid,mid
+Woods,Fujikura,Ventus,Blue 7,X,77.5,2.9,mid,mid
+Woods,Fujikura,Ventus,Black 5,S,57.5,3.7,high,low
+Woods,Fujikura,Ventus,Black 5,X,58.5,3.3,high,low
+Woods,Fujikura,Ventus,Black 6,S,64,3.4,high,low
+Woods,Fujikura,Ventus,Black 6,X,65,3.1,high,low
+Woods,Fujikura,Ventus,Black 7,S,77,3.1,high,low
+Woods,Fujikura,Ventus,Black 7,X,78,2.8,high,low
+Hybrid,Fujikura,Ventus,Black HB 9,TX,96,2,high,
+Hybrid,Fujikura,Ventus,Black HB 10,TX,105,1.8,high,
+Woods,Fujikura,Ventus,TR Red 5,R,59.5,3.5,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Red 5,S,59.5,3.3,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Red 6,S,68,3.2,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Red 6,X,69.5,3,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Red 7,S,77,3,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Red 7,X,78,2.8,mid_low,mid_high
+Woods,Fujikura,Ventus,TR Blue 5,R,58,3.5,mid_high,mid
+Woods,Fujikura,Ventus,TR Blue 5,S,58,3.3,mid_high,mid
+Woods,Fujikura,Ventus,TR Blue 6,S,68,3.1,mid_high,mid
+Woods,Fujikura,Ventus,TR Blue 6,X,68,2.9,mid_high,mid
+Woods,Fujikura,Ventus,TR Blue 7,S,77.5,2.9,mid_high,mid
+Woods,Fujikura,Ventus,TR Blue 7,X,78.5,2.7,mid_high,mid
+Woods,Fujikura,Ventus,TR Black 5,S,59,3.5,high,low
+Woods,Fujikura,Ventus,TR Black 5,x,60,3.3,high,low
+Woods,Fujikura,Ventus,TR Black 6,S,69.5,3.1,high,low
+Woods,Fujikura,Ventus,TR Black 6,X,70,2.9,high,low
+Woods,Fujikura,Ventus,TR Black 7,S,79.5,2.8,high,low
+Woods,Fujikura,Ventus,TR Black 7,X,80,2.7,high,low
+Woods,Fujikura,Ventus,TR Black 8,X,89,2.6,high,low
+Woods,Mitsubishi,Diamana,WB 43,R2,43.0,5.5,high,low
+Woods,Mitsubishi,Diamana,WB 43,R,44.0,5.4,high,low
+Woods,Mitsubishi,Diamana,WB 43,SR,46.0,5.4,high,low
+Woods,Mitsubishi,Diamana,WB 43,S,46.0,5.3,high,low
+Woods,Mitsubishi,Diamana,WB 43,X,48.0,5.3,high,low
+Woods,Mitsubishi,Diamana,WB 53,R,52.0,4.7,high,low
+Woods,Mitsubishi,Diamana,WB 53,SR,53.0,4.7,high,low
+Woods,Mitsubishi,Diamana,WB 53,S,54.0,4.6,high,low
+Woods,Mitsubishi,Diamana,WB 53,X,55.0,4.6,high,low
+Woods,Mitsubishi,Diamana,WB 53,TX,58.0,4.6,high,low
+Woods,Mitsubishi,Diamana,WB 63,R,60.0,3.2,high,low
+Woods,Mitsubishi,Diamana,WB 63,SR,61.0,3.1,high,low
+Woods,Mitsubishi,Diamana,WB 63,S,62.0,3.1,high,low
+Woods,Mitsubishi,Diamana,WB 63,X,63.0,3.1,high,low
+Woods,Mitsubishi,Diamana,WB 63,TX,65.0,3.0,high,low
+Woods,Mitsubishi,Diamana,WB 73,S,70.0,3.0,high,low
+Woods,Mitsubishi,Diamana,WB 73,X,72.0,2.9,high,low
+Woods,Mitsubishi,Diamana,WB 73,TX,73.0,2.9,high,low
+Woods,Mitsubishi,Diamana,WB 83,S,80.0,2.7,high,low
+Woods,Mitsubishi,Diamana,WB 83,X,83.0,2.7,high,low
+Woods,Mitsubishi,Diamana,WB 83,TX,84.0,2.7,high,low
+Woods,Fujikura,Ventus,Plus Red 5,R,59.5,3.6,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Red 5,S,59.5,3.4,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Red 6,S,67.5,3.3,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Red 6,X,67.5,3.2,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Red 7,S,77.5,3.1,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Red 7,X,78,3,mid_low,mid_high
+Woods,Fujikura,Ventus,Plus Blue 5,R,58.5,3.7,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 5,S,58.5,3.5,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 5,X,59.0,3.3,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 6,S,65.5,3.3,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 6,X,66.0,3.1,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 7,S,75.5,3.0,mid,mid
+Woods,Fujikura,Ventus,Plus Blue 7,X,76.0,2.9,mid,mid
+Woods,Fujikura,Ventus,Plus Black 5,S,59.5,3.5,high,low
+Woods,Fujikura,Ventus,Plus Black 5,X,59.5,3.3,high,low
+Woods,Fujikura,Ventus,Plus Black 6,S,66.0,3.2,high,low
+Woods,Fujikura,Ventus,Plus Black 6,X,66.5,3.0,high,low
+Woods,Fujikura,Ventus,Plus Black 7,S,75.0,3.0,high,low
+Woods,Fujikura,Ventus,Plus Black 7,X,75.5,2.9,high,low
+Woods,Fujikura,Ventus,Plus Black 8,X,84.0,2.8,high,low
+Woods,Mitsubishi,Diamana,GT 40,R,47.0,5.6,mid_high,low
+Woods,Mitsubishi,Diamana,GT 40,S,49.0,5.4,mid_high,low
+Woods,Mitsubishi,Diamana,GT 40,X,49.0,5.4,mid_high,low
+Woods,Mitsubishi,Diamana,GT 50,R,56.0,4.7,mid_high,low
+Woods,Mitsubishi,Diamana,GT 50,S,56.0,4.6,mid_high,low
+Woods,Mitsubishi,Diamana,GT 50,X,59.0,4.6,mid_high,low
+Woods,Mitsubishi,Diamana,GT 50,TX,61.0,4.5,mid_high,low
+Woods,Mitsubishi,Diamana,GT 60,R,60.0,3.9,mid_high,low
+Woods,Mitsubishi,Diamana,GT 60,S,62.0,3.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 60,X,65.0,3.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 60,TX,66.0,3.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 70,S,72.0,2.9,mid_high,low
+Woods,Mitsubishi,Diamana,GT 70,X,75.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 70,TX,77.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 80,S,82.0,2.9,mid_high,low
+Woods,Mitsubishi,Diamana,GT 80,X,85.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,GT 80,TX,86.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,TB 40,R,49.0,6.2,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 40,S,49.0,5.9,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 40,X,51.0,5.9,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 50,R,56.0,5.3,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 50,S,56.0,5.0,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 50,X,57.0,4.9,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 50,TX,60.0,4.9,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 60,R,64.0,3.9,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 60,S,64.0,3.7,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 60,X,65.0,3.7,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 60,TX,68.0,3.7,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 70,S,74.0,3.4,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 70,X,75.0,3.4,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 70,TX,76.0,3.4,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 80,S,86.0,3.3,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 80,X,87.0,3.3,mid_high,mid
+Woods,Mitsubishi,Diamana,TB 80,TX,87.0,3.3,mid_high,mid
+Woods,Mitsubishi,Diamana,PD 40,R,45.0,6.1,mid_high,low
+Woods,Mitsubishi,Diamana,PD 40,S,47.0,5.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 40,X,49.0,5.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 50,R,53.0,4.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 50,S,53.0,4.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 50,X,56.0,4.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 50,TX,57.0,4.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 60,R,63.0,3.3,mid_high,low
+Woods,Mitsubishi,Diamana,PD 60,S,64.0,3.3,mid_high,low
+Woods,Mitsubishi,Diamana,PD 60,X,65.0,3.2,mid_high,low
+Woods,Mitsubishi,Diamana,PD 60,TX,66.0,3.1,mid_high,low
+Woods,Mitsubishi,Diamana,PD 70,S,74.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 70,X,75.0,2.8,mid_high,low
+Woods,Mitsubishi,Diamana,PD 70,TX,76.0,2.7,mid_high,low
+Woods,Mitsubishi,Diamana,PD 80,S,84.0,2.9,mid_high,low
+Woods,Mitsubishi,Diamana,PD 80,X,84.0,2.9,mid_high,low
+Woods,Mitsubishi,Diamana,PD 80,TX,84.0,2.9,mid_high,low
+Woods,Mitsubishi,Tensei,1K Orange 50,R,54.0,3.9,high,low
+Woods,Mitsubishi,Tensei,1K Orange 50,S,56.0,3.9,high,low
+Woods,Mitsubishi,Tensei,1K Orange 50,X,58.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K Orange 50,TX,59.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K Orange 60,R,66.0,3.0,high,low
+Woods,Mitsubishi,Tensei,1K Orange 60,S,68.0,3.0,high,low
+Woods,Mitsubishi,Tensei,1K Orange 60,X,70.0,3.0,high,low
+Woods,Mitsubishi,Tensei,1K Orange 60,TX,71.0,3.0,high,low
+Woods,Mitsubishi,Tensei,1K Orange 70,S,77.0,2.7,high,low
+Woods,Mitsubishi,Tensei,1K Orange 70,X,79.0,2.7,high,low
+Woods,Mitsubishi,Tensei,1K Orange 70,TX,80.0,2.7,high,low
+Woods,Mitsubishi,Tensei,1K Orange 80,S,85.0,2.5,high,low
+Woods,Mitsubishi,Tensei,1K Orange 80,X,87.0,2.4,high,low
+Woods,Mitsubishi,Tensei,1K Orange 80,TX,88.0,2.4,high,low
+Woods,Mitsubishi,Tensei,1K White 50,R,54.0,4.6,high,low
+Woods,Mitsubishi,Tensei,1K White 50,S,56.0,4.5,high,low
+Woods,Mitsubishi,Tensei,1K White 50,X,59.0,4.4,high,low
+Woods,Mitsubishi,Tensei,1K White 50,TX,61.0,4.4,high,low
+Woods,Mitsubishi,Tensei,1K White 60,R,60.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K White 60,S,62.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K White 60,X,65.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K White 60,TX,67.0,3.8,high,low
+Woods,Mitsubishi,Tensei,1K White 70,S,71.0,3.4,high,low
+Woods,Mitsubishi,Tensei,1K White 70,X,75.0,3.3,high,low
+Woods,Mitsubishi,Tensei,1K White 70,TX,76.0,3.2,high,low
+Woods,Mitsubishi,Tensei,1K White 80,S,82.0,2.8,high,low
+Woods,Mitsubishi,Tensei,1K White 80,X,84.0,2.8,high,low
+Woods,Mitsubishi,Tensei,1K White 80,TX,86.0,2.7,high,low
+Woods,Mitsubishi,Tensei,1K Black 65,S,67.0,3.6,high,low
+Woods,Mitsubishi,Tensei,1K Black 65,X,68.0,3.5,high,low
+Woods,Mitsubishi,Tensei,1K Black 65,TX,69.0,3.5,high,low
+Woods,Mitsubishi,Tensei,1K Black 75,S,76.0,3.6,high,low
+Woods,Mitsubishi,Tensei,1K Black 75,X,78.0,3.5,high,low
+Woods,Mitsubishi,Tensei,1K Black 75,TX,79.0,3.0,high,low
+Woods,Mitsubishi,Tensei,1K Black 85,S,89.0,3.2,high,low
+Woods,Mitsubishi,Tensei,1K Black 85,X,90.0,3.2,high,low
+Woods,Mitsubishi,Tensei,1K Black 85,TX,90.0,2.8,high,low
+Woods,Mitsubishi,Tensei,1K Blue 50,R,52.0,4.9,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 50,S,54.0,4.8,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 50,X,55.0,4.8,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 50,TX,57.0,4.8,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 60,R,58.0,4.0,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 60,S,61.0,3.9,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 60,X,63.0,3.9,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 60,TX,65.0,3.9,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 70,S,69.0,3.4,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 70,X,72.0,3.3,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 70,TX,74.0,3.3,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 80,S,80.0,3.0,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 80,X,82.0,3.0,mid,mid
+Woods,Mitsubishi,Tensei,1K Blue 80,TX,84.0,2.9,mid,mid
+Woods,Fujikura,Speeder NX,Green 40,R,49.5,5.4,mid,mid_high
+Woods,Fujikura,Speeder NX,Green 40,S,52.5,5.4,mid,mid_high
+Woods,Fujikura,Speeder NX,Green 50,R,54.5,4.6,mid,mid
+Woods,Fujikura,Speeder NX,Green 50,S,57.5,4.6,mid,mid
+Woods,Fujikura,Speeder NX,Green 50,X,59.0,4.6,mid,mid
+Woods,Fujikura,Speeder NX,Green 60,S,65.0,3.7,mid,mid
+Woods,Fujikura,Speeder NX,Green 60,X,66.5,3.7,mid,mid
+Woods,Fujikura,Speeder NX,Green 60,TX,68.0,3.7,mid,mid
+Woods,Fujikura,Speeder NX,Green 70,S,76.0,2.9,mid,mid
+Woods,Fujikura,Speeder NX,Green 70,X,77.5,2.9,mid,mid_low
+Woods,Fujikura,Speeder NX,Green 70,TX,76.0,2.9,mid,mid_low
+Woods,Fujikura,Speeder NX,Violet 40,R,49.5,5.7,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 40,S,53.0,5.7,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 50,R,54.5,4.5,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 50,S,57.5,4.5,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 50,X,59.0,4.5,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 60,S,67.0,3.6,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 60,X,68.5,3.6,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 70,S,77.5,3.0,mid,mid_high
+Woods,Fujikura,Speeder NX,Violet 70,X,79.0,3.0,mid,mid_high
+Woods,Project X,Denali,Red 40,4.0,48.0,6.2,low,high
+Woods,Project X,Denali,Red 50,5.0,52.0,5.9,low,high
+Woods,Project X,Denali,Red 50,5.5,53.0,5.4,low,high
+Woods,Project X,Denali,Red 50,6.0,53.0,5.0,low,high
+Woods,Project X,Denali,Red 60,5.0,59.0,4.7,low,high
+Woods,Project X,Denali,Red 60,5.5,60.0,4.5,low,high
+Woods,Project X,Denali,Red 60,6.0,60.0,4.0,low,high
+Woods,Project X,Denali,Red 60,6.5,62.0,3.8,low,high
+Woods,Project X,Denali,Red 70,6.0,72.0,3.0,low,high
+Woods,Project X,Denali,Red 70,6.5,73.0,2.9,low,high
+Woods,Project X,Denali,Blue 50,5.0,55.0,4.8,mid,mid
+Woods,Project X,Denali,Blue 50,5.5,57.0,4.2,mid,mid
+Woods,Project X,Denali,Blue 50,6.0,58.0,4.1,mid,mid
+Woods,Project X,Denali,Blue 60,5.5,64.0,3.9,mid,mid
+Woods,Project X,Denali,Blue 60,6.0,65.0,3.7,mid,mid
+Woods,Project X,Denali,Blue 60,6.5,65.0,3.5,mid_high,mid
+Woods,Project X,Denali,Blue 60,TX,65.0,3.1,mid_high,mid
+Woods,Project X,Denali,Blue 70,6.0,73.0,3.1,mid_high,mid
+Woods,Project X,Denali,Blue 70,6.5,73.0,3.0,mid_high,mid
+Woods,Project X,Denali,Blue 70,TX,73.0,2.6,mid_high,mid
+Woods,Project X,Denali,Blue 80,TX,85.0,2.4,mid_high,mid
+Woods,Project X,Denali,Black 60,6.0,65.0,3.9,high,low
+Woods,Project X,Denali,Black 60,6.5,69.0,3.7,high,low
+Woods,Project X,Denali,Black 60,TX,65.0,2.5,high,low
+Woods,Project X,Denali,Black 70,6.0,75.0,3.6,high,low
+Woods,Project X,Denali,Black 70,6.5,76.0,3.2,high,low
+Woods,Project X,Denali,Black 70,TX,74.0,2.4,high,low
+Woods,Project X,Denali,Black 80,6.0,89.0,3.2,high,low
+Woods,Project X,Denali,Black 80,6.5,89.0,3.1,high,low
+Woods,Project X,Denali,Black 80,TX,84.0,2.3,high,low
+Woods,Project X,HZRDUS,T1100 60,6.0,65.0,2.4,high,low
+Woods,Project X,HZRDUS,T1100 60,6.5,67.0,2.3,high,low
+Woods,Project X,HZRDUS,T1100 70,6.0,75.0,2.3,high,low
+Woods,Project X,HZRDUS,T1100 70,6.5,77.0,2.2,high,low
+Woods,Project X,HZRDUS,T1100 60,6.5,87.0,2.1,high,low
+Woods,Project X,HZRDUS,Black 60,5.5,65.0,3.5,high,low
+Woods,Project X,HZRDUS,Black 60,6.0,65.0,3.2,high,low
+Woods,Project X,HZRDUS,Black 60,6.5,66.0,3.0,high,low
+Woods,Project X,HZRDUS,Black 60,TX,67.0,2.7,high,low
+Woods,Project X,HZRDUS,Black 70,5.5,71.0,3.4,high,low
+Woods,Project X,HZRDUS,Black 70,6.0,72.0,3.1,high,low
+Woods,Project X,HZRDUS,Black 70,6.5,74.0,2.9,high,low
+Woods,Project X,HZRDUS,Black 70,TX,77.0,2.6,high,low
+Woods,Project X,HZRDUS,Black 80,6.0,80.0,3.0,high,low
+Woods,Project X,HZRDUS,Black 80,6.5,81.0,2.8,high,low
+Woods,Project X,HZRDUS,Black 80,TX,85.0,2.5,high,low
+Woods,Project X,HZRDUS,Smoke Green  60,6.0,61.0,3.2,high,low
+Woods,Project X,HZRDUS,Smoke Green  60,6.5,62.0,3.0,high,low
+Woods,Project X,HZRDUS,Smoke Green  60,TX,65.0,3.0,high,low
+Woods,Project X,HZRDUS,Smoke Green  70,6.0,70.0,3.2,high,low
+Woods,Project X,HZRDUS,Smoke Green  70,6.5,72.0,2.8,high,low
+Woods,Project X,HZRDUS,Smoke Green  70,TX,74.0,2.8,high,low
+Woods,Graphite Design,Tour AD,VF 4,R,46.0,5.6,high,low
+Woods,Graphite Design,Tour AD,VF 4,S,47.0,5.5,high,low
+Woods,Graphite Design,Tour AD,VF 5,R,55.0,4.3,high,low
+Woods,Graphite Design,Tour AD,VF 5,S,56.0,4.3,high,low
+Woods,Graphite Design,Tour AD,VF 5,X,59.0,4.3,high,low
+Woods,Graphite Design,Tour AD,VF 6,S,65.0,3.3,high,low
+Woods,Graphite Design,Tour AD,VF 6,X,67.0,3.3,high,low
+Woods,Graphite Design,Tour AD,VF 6,TX,68.0,3.3,high,low
+Woods,Graphite Design,Tour AD,VF 7,S,74.0,3.0,high,low
+Woods,Graphite Design,Tour AD,VF 7,X,75.0,3.0,high,low
+Woods,Graphite Design,Tour AD,VF 7,TX,77.0,3.0,high,low
+Woods,Graphite Design,Tour AD,DI 5,R,55.0,4.7,mid,mid
+Woods,Graphite Design,Tour AD,DI 5,S,57.0,4.7,mid,mid
+Woods,Graphite Design,Tour AD,DI 6,S,65.0,3.3,mid,mid
+Woods,Graphite Design,Tour AD,DI 6,X,67.0,3.3,mid,mid
+Woods,Graphite Design,Tour AD,DI 7,S,74.0,3.2,mid,mid
+Woods,Graphite Design,Tour AD,DI 7,X,75.0,3.1,mid,mid
+Woods,Graphite Design,Tour AD,DI 8,S,84.0,3.0,mid,mid
+Woods,Graphite Design,Tour AD,DI 8,X,85.0,2.9,mid,mid

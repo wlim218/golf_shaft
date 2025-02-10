@@ -1,0 +1,118 @@
+club,company,shaft,model,flex,weight,type,launch,spin
+Irons,True Temper,Dynamic Gold,R300,R,127.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,S200,S,127.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,S300,S,130.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,S400,S,134.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,X100,X,130.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,Toure Issue S400,S,132.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,Toure Issue X100,X,130.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,EX Toure Issue S200,S,131.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,EX Toure Issue X100,X,132.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,Mid Tour Issue S200,S,130.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,Mid Tour Issue X100,X,130.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,120 Tour Issue S200,S,118.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,120 R300,R,116.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,120 S200,S,118.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,120 X100,X,120.0,Steel,low,low
+Irons,True Temper,Dynamic Gold,115 S200,S,115.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,105 Tour Issue R300,R,101.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,105 Tour Issue S200,S,103.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,105 Tour Issue X100,X,105.0,Steel,mid,mid
+Irons,True Temper,Dynamic Gold,105 R300,R,101.0,Steel,mid-low,mid
+Irons,True Temper,Dynamic Gold,105 S200,S,103.0,Steel,mid-low,mid
+Irons,True Temper,Dynamic Gold,105 X100,X,105.0,Steel,mid-low,mid
+Irons,True Temper,Dynamic Gold,95 R300,R,95.0,Steel,high,high
+Irons,True Temper,Dynamic Gold,95 S200,S,95.0,Steel,high,high
+Irons,True Temper,Dynamic Gold,85 R300,R,86.0,Steel,high,high
+Irons,True Temper,Dynamic Gold,85 S200,S,87.0,Steel,high,high
+Irons,Project X,Rifle,5.0,R,110.0,Steel,low,low
+Irons,Project X,Rifle,5.5,S,115.0,Steel,low,low
+Irons,Project X,Rifle,6.0,X,120.0,Steel,low,low
+Irons,Project X,Rifle,6.5,X,125.0,Steel,low,low
+Irons,Project X,Rifle,7.0,TX,130.0,Steel,low,low
+Irons,Project X,LS,6.0,X,120.0,Steel,low,low
+Irons,Project X,LS,6.5,X,125.0,Steel,low,low
+Irons,Project X,LS,7.0,TX,130.0,Steel,low,low
+Irons,Project X,LZ,5.0,R,110.0,Steel,mid,mid
+Irons,Project X,LZ,5.5,S,115.0,Steel,mid,mid
+Irons,Project X,LZ,6.0,X,120.0,Steel,mid,mid
+Irons,Project X,LZ,6.5,X,125.0,Steel,mid,mid
+Irons,Project X,IO,5.5,S,115.0,Steel,mid-high,mid-high
+Irons,Project X,IO,6.0,X,120.0,Steel,mid,mid
+Irons,Project X,IO,6.5,X,125.0,Steel,mid-low,mid-low
+Irons,NS PRO,Modus,Tour 105,R,103.0,Steel,mid,mid
+Irons,NS PRO,Modus,Tour 105,S,106.0,Steel,mid,mid
+Irons,NS PRO,Modus,Tour 105,X,112.0,Steel,mid,mid
+Irons,NS PRO,Modus,Tour 120,R,111.0,Steel,mid-low,mid-low
+Irons,NS PRO,Modus,Tour 120,S,114.0,Steel,mid-low,mid-low
+Irons,NS PRO,Modus,Tour 120,X,120.0,Steel,mid-low,mid-low
+Irons,NS PRO,Modus,Tour 120,TX,126.0,Steel,mid-low,mid-low
+Irons,NS PRO,Modus,Tour 130,R,121.0,Steel,high,low
+Irons,NS PRO,Modus,Tour 130,S,124.0,Steel,high,low
+Irons,NS PRO,Modus,Tour 130,X,129.0,Steel,high,low
+Irons,NS PRO,Neo,750 GH,R,74.5,Steel,high,high
+Irons,NS PRO,Neo,750 GH,S,78.0,Steel,high,high
+Irons,NS PRO,Neo,850 GH,R,84.5,Steel,high,high
+Irons,NS PRO,Neo,850 GH,S,88.0,Steel,high,high
+Irons,NS PRO,Neo,950 GH,R,94.5,Steel,high,high
+Irons,NS PRO,Neo,950 GH,SR,97.0,Steel,high,high
+Irons,NS PRO,Neo,950 GH,S,98.0,Steel,high,high
+Irons,NS PRO,Neo,950 GH,X,104.0,Steel,high,high
+Irons,NS PRO,Zelos,6,A,68.5,Steel,high,high
+Irons,NS PRO,Zelos,7,R,74.0,Steel,high,high
+Irons,NS PRO,Zelos,7,S,77.5,Steel,high,high
+Irons,NS PRO,Zelos,8,R,84.0,Steel,high,high
+Irons,NS PRO,Zelos,8,S,87.5,Steel,high,high
+Irons,KBS Shaft,KBS,Tour,R,110.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,Tour,RR,115.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,Tour,S,120.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,Tour,SS,125.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,Tour,X,130.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,Tour Lite,R,95.0,Steel,high,high
+Irons,KBS Shaft,KBS,Tour Lite,S,100.0,Steel,high,high
+Irons,KBS Shaft,KBS,Tour Lite,X,105.0,Steel,high,high
+Irons,KBS Shaft,KBS,S-Taper,R,110.0,Steel,mid-low,mid-low
+Irons,KBS Shaft,KBS,S-Taper,RR,115.0,Steel,mid-low,mid-low
+Irons,KBS Shaft,KBS,S-Taper,S,120.0,Steel,mid-low,mid-low
+Irons,KBS Shaft,KBS,S-Taper,SS,125.0,Steel,mid-low,mid-low
+Irons,KBS Shaft,KBS,S-Taper,X,130.0,Steel,mid-low,mid-low
+Irons,KBS Shaft,KBS,S-Taper Lite,R,95.0,Steel,mid-high,mid-high
+Irons,KBS Shaft,KBS,S-Taper Lite,S,100.0,Steel,mid-high,mid-high
+Irons,KBS Shaft,KBS,S-Taper Lite,X,105.0,Steel,mid-high,mid-high
+Irons,KBS Shaft,KBS,C-Taper,R,110.0,Steel,low,low
+Irons,KBS Shaft,KBS,C-Taper,RR,115.0,Steel,low,low
+Irons,KBS Shaft,KBS,C-Taper,S,120.0,Steel,low,low
+Irons,KBS Shaft,KBS,C-Taper,SS,125.0,Steel,low,low
+Irons,KBS Shaft,KBS,C-Taper,X,130.0,Steel,low,low
+Irons,KBS Shaft,KBS,C-Taper Lite,R,105.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,C-Taper Lite,S,110.0,Steel,mid,mid
+Irons,KBS Shaft,KBS,C-Taper Lite,X,115.0,Steel,mid,mid
+Irons,Aerotecch,SteelFiber,H-Plus 45,A,50.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,H-Plus 46,R,50.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,H-Plus 55,A,56.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,H-Plus 56,R,58.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,H-Plus 65,R,63.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,H-Tour 75,R,73.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,H-Tour 76,S,74.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,H-Tour 90,R,83.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,H-Tour 91,S,84.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,H-Tour 105,S,96.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,H-Tour 106,X,97.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,H-Tour 120,S,115.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,i55,A,56.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,i55,R,58.0,Graphite,high,high
+Irons,Aerotecch,SteelFiber,i70,L,74.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,i70,A,74.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,i70,R,74.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,i70,S,74.0,Graphite,mid-high,mid-high
+Irons,Aerotecch,SteelFiber,i80,L,85.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i80,A,85.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i80,R,85.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i80,S,85.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i95,R,95.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i95,S,95.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i95,X,95.0,Graphite,mid,mid
+Irons,Aerotecch,SteelFiber,i110,R,110.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,i110,S,110.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,i110,X,110.0,Graphite,mid-low,mid-low
+Irons,Aerotecch,SteelFiber,i125,S,125.0,Graphite,mid-low,mid-low
