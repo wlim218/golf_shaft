@@ -102,6 +102,7 @@ def filter_shaft_data(data, club_type, swing_speed, body_type, desired_launch, s
 # 페이지 이동 함수
 def go_to(page):
     st.session_state['page'] = page
+    st.experimental_rerun()
     
 # 페이지 UI 렌더링
 if st.session_state['page'] == 'club_selection':
