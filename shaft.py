@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import os
 
 # 페이지 설정
 st.set_page_config(
@@ -8,13 +9,13 @@ st.set_page_config(
     layout="wide",
 )
 
-# 세션 상태 초기화
-st.session_state.setdefault('page', 'main_page')
-st.session_state.setdefault('club_type', None)
-st.session_state.setdefault('body_type', None)
-st.session_state.setdefault('swing_speed', None)
-st.session_state.setdefault('desired_launch', None)
-st.session_state.setdefault('spin_rate', None)
+# 세션 상태 초기화 (세션 키가 없으면 기본값 설정)
+st.session_state.setdefault("page", "main_page")
+st.session_state.setdefault("club_type", None)
+st.session_state.setdefault("body_type", None)
+st.session_state.setdefault("swing_speed", None)
+st.session_state.setdefault("desired_launch", None)
+st.session_state.setdefault("spin_rate", None)
 
 # 데이터 업로드
 shaft_woods = pd.read_csv('woods.csv')
@@ -83,8 +84,8 @@ def filter_shaft_data(data, club_type, swing_speed, body_type, desired_launch, s
     
     return data
 
-# 페이지 UI 렌더링
-if st.session_state['page'] == 'main_page':
+# 메인 페이지 UI 렌더링
+if st.session_state["page"] == "main_page":
     st.header("나에게 맞는 샤프트 찾기 🏌🏻")
 
     # **1. 클럽 선택**
@@ -118,10 +119,10 @@ if st.session_state['page'] == 'main_page':
     # **결과 보기 버튼**
     if st.button("🔍 결과 보기"):
         st.session_state['page'] = 'results'
-        st.experimental_rerun()
+        st.experimental_rerun()  # ✅ 최신 Streamlit 사용
 
 # 결과 페이지
-elif st.session_state['page'] == 'results':
+elif st.session_state["page"] == "results":
     st.header("추천 샤프트 결과 📊")
 
     # 사용자 선택값 불러오기
@@ -145,5 +146,5 @@ elif st.session_state['page'] == 'results':
 
     # 다시 선택하기 버튼
     if st.button("🔄 다시 선택하기"):
-        st.session_state['page'] = 'main_page'
+        st.session_state["page"] = "main_page"
         st.experimental_rerun()
