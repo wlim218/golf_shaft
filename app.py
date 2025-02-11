@@ -57,11 +57,11 @@ def filter_shaft_data(data, club_type, swing_speed, body_type, desired_launch, s
         
         if 'launch' in data.columns:
             if desired_launch == '높은 탄도':
-                data = data[data['launch'].isin(['low', 'mid-low'])]
+                data = data[data['launch'].isin(['high', 'mid-high'])]
             elif desired_launch == '중간 탄도':
                 data = data[data['launch'].isin(['mid', 'mid-low', 'mid-high'])]
             else:
-                data = data[data['launch'].isin(['high', 'mid-high'])]
+                data = data[data['launch'].isin(['low', 'mid-low'])]
     
     elif club_type == "아이언":
         if swing_speed < 30:
